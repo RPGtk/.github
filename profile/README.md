@@ -1,1 +1,1 @@
-The organization for the RPG Toolkit 1, a toolset for creating [RPGMaker]()-style games with performance and size in mind.
+The organization contains several projects, all of which are components of the wider RPGtk toolset. The GUI editor is included under `editor`, while the actual engine is under `tk`. All other repositories contain items such as windowing abstractions, graphical projects, and other engine-related components.
