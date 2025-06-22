@@ -1,1 +1,3 @@
 The organization contains several projects, all of which are components of the wider Waterlily toolset. The entire toolset is written in C, using CMake as a build system. The GUI editor is included under [`editor`](), while the actual engine is under [`engine`](https://github.com/waterlily-team/engine). All other repositories contain items such as [windowing abstractions](https://github.com/waterlily-team/window), [graphical helpers](https://github.com/waterlily-team/vulkan), and other engine-related components.
+
+If you have any questions, please contact the project via our [business e-mail](mailto:waterlilyproject@protonmail.com).
